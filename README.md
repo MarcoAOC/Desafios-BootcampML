@@ -5,7 +5,7 @@ Este repositório será mantido pelos próprios participantes do bootcamp intere
 A intenção desse repositório é fornecer alguns desafios de programação para instigar o aprendizado da lógica para os participantes do bootcamp. 
 
 ## Como funcionará
-A intenção desse repositório é funcionar de forma colaborativa. Na aba `issues`, os participantes que já possuem mais experiência com lógica de programação poderão enviar desafios. Os participantes que tiverem interesse, poderão aperfeiçõar sua lógica de programação resolvendo esses desafios e tirando suas dúvidas com a comunidade. Todos os desafios deverão possuir um nível de dificuldade indicado.
+A intenção desse repositório é funcionar de forma colaborativa. Na aba `issues`, os participantes que já possuem mais experiência com lógica de programação poderão enviar desafios. Os participantes que tiverem interesse, poderão aperfeiçoar sua lógica de programação resolvendo esses desafios e tirando suas dúvidas com a comunidade. Todos os desafios deverão possuir um nível de dificuldade indicado.
 
 
 ## Desafios disponíveis
