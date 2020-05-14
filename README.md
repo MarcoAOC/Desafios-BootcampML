@@ -10,7 +10,8 @@ A intenção desse repositório é funcionar de forma colaborativa. Na aba `issu
 
 ## Desafios disponíveis
 * [Par ou Ímpar](https://github.com/MarcoAOC/Desafios-BootcampML/issues/1)
-
+* [Média, Mediana e Moda](https://github.com/MarcoAOC/Desafios-BootcampML/issues/2)
+* [Desenho de losango](https://github.com/MarcoAOC/Desafios-BootcampML/issues/3)
 
 ## Como colaborar
 Para colaborar com desafios, crie uma `issue` com o seu desafio, utilizando o mesmo modelo dos demais.
